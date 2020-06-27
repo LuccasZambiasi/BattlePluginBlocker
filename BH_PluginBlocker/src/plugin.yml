@@ -1,0 +1,5 @@
+name: BH_PluginBlocker
+version: 1.0
+main: br.com.battlehost.pluginblocker.Main
+author: xampS
+commands:

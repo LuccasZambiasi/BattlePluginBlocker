@@ -1,0 +1,27 @@
+#
+# BattleHost PluginBlocker
+# Desenvolvido por xampS#0443
+#
+# Permissão: battlehost.pluginblocker
+#
+
+# Habilitar/Desabilitar a função do plugin.
+config:
+  habilitar: true
+
+# Mensagens
+mensagens:
+  bloqueado: '&c* &7Você não pode executar esse comando!'
+
+# Lista de comandos bloqueados.
+comandos:
+  bloqueados: 
+     - 'pl'
+     - 'plugins'
+     - 'ver'
+     - 'help'
+     - '?'
+     - 'me'
+     - 'bukkit:help'
+     - 'plugins'
+     - 'minecraft:me'
